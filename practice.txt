@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "second commiit"
+git remote add orijin https://github.com/SasagawaKira/sample-git-projec.git
+git push -u orijin main
+
+
+
